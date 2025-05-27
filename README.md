@@ -1,3 +1,4 @@
+<img src="Github Cover.png">
 <h1 align="center">Welcome to my reality...</h1>
 <h3 align="center">AI/ML enthusiast | Web Developer | Graphic Designer</h3>
 
