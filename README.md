@@ -90,7 +90,7 @@ Also have hobby of making games as a **Game Developer** cause why not.
   <a href="https://linkedin.com/in/ratulchatterjee99">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
   </a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/30645846/ratul-chatterjee?tab=profile">
+  <a href="https://stackoverflow.com/users/30645846/ratul-chatterjee?tab=profile">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"/>
   </a>
 </div>
