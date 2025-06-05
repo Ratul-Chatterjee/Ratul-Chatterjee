@@ -61,7 +61,7 @@ Also have hobby of making games as a **Game Developer** cause why not.
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ratul-Chatterjee&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Ratul-Chatterjee&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratul-Chatterjee&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
