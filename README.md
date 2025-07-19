@@ -67,21 +67,13 @@ Also have hobby of making games as a **Game Developer** cause why not.
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-trophies.vercel.app/?username=Ratul-Chatterjee&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
-
-</div
----
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Ratul-Chatterjee&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
 
-## Connect with me for work
+## Connect with Me
 
 <div align="center">
   <a href="mailto:ratul.9chatterjee@gmail.com">
