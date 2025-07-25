@@ -10,9 +10,8 @@
 
 ## 😎 About Me
 
-Hi! I’m **Ratul Chatterjee**, knowledgable in **Full Stack Web Developer** and **Graphic Designer** with a knack for blending creativity with technology. I specialize in building dynamic web applications using various programming languages and modern AI/ML tools. 
-
-Beyond coding, I design sleek **UI/UX** prototypes in Figma and crafting visuals for marketing campaigns.
+Hi! I’m **Ratul Chatterjee**, 
+**Full Stack Web Developer** and **Graphic Designer** with skills in Python, JavaScript, and modern AI/ML tools for creating interactive web applications. Skilled in software development, data analysis, and front-end development. Has experience creating visuals for marketing campaigns and UI/UX prototypes in Figma. Involved in market research and business development to connect technical solutions with business goals.
 
 Also currently learning to develop games as a **Game Developer** cause why not.
 
