@@ -88,7 +88,7 @@ Also currently learning to develop games as a **Game Developer** cause why not.
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Ratul-Chatterjee&icon=0&color=4)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ratul-chatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="ratul-chatterjee" /> </p>
 
 </div>
 <p align="center">Enjoy!</p>
