@@ -51,8 +51,9 @@ Also currently learning to develop games as a **Game Developer** cause why not.
 
 |  Project         |  Tech Used          |  Description |
 |--------------------|----------------------|----------------|
-| **Water Quality Analyser**  (Mini Project)     | Python, ML, Web Dev, Flask   | Water quality of an area can be measured as organic or in-organic by the use of AI/Ml tools like Numpy, Pytorch and more. |
-| **Custom Chatbot (LLM)**      | Hugging Face, Python| Created a custom chatbot in Intel Unnati Program using Hugging Face and Python in Intel's provided servers. |
+| **Water Quality Analyser**  (Mini Project) | Python, ML, Web Dev, Flask | Water quality of an area can be measured as organic or in-organic by the use of AI/Ml tools like Numpy, Pytorch and more. |
+| **Custom Chatbot (LLM)** | Hugging Face, Python | Created a custom chatbot in Intel Unnati Program using Hugging Face and Python in Intel's provided servers. |
+| **AI Kitchen Companion (UIPath)** | UIPath Environment, RPA, AI Automation, Agentic AI | UiPath-Hackathon-AiChef is an application that helps with grocery bill management and recipe suggestions using AI-assisted features. |
 
 (Making more projects, connect with me if interested in collab in project.)
 
