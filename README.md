@@ -14,7 +14,7 @@
 ## 😎 About Me
 
 Hi! I’m **Ratul Chatterjee**, 
-**Full Stack Web Developer** and **Graphic Designer** with skills in Python, JavaScript, and modern AI/ML tools for creating interactive web applications. Skilled in software development, data analysis, and front-end development. Has experience creating visuals for marketing campaigns and UI/UX prototypes in Figma. Involved in market research and business development to connect technical solutions with business goals.
+**Full Stack Web Developer** specializing in **AI/ML** technologies and web application development. Experienced in building **machine learning** solutions using Python, PyTorch, and other frameworks. Proficient in developing AI-powered automation systems and chatbots with practical implementation experience. Skilled in creating interactive web applications using Flask and JavaScript with modern development frameworks. Strong foundation in data analysis for deriving insights from complex datasets. Competent in **UI/UX** design and prototyping using Figma.
 
 Also currently learning to develop games as a **Game Developer** cause why not.
 
@@ -87,10 +87,15 @@ Also currently learning to develop games as a **Game Developer** cause why not.
 
 ## Connect with Me
 
-<p align="left"> <a href="https://www.github.com/Ratul-Chatterjee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ratulchatterjee99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.stackoverflow.com/users/30645846/ratul-chatterjee?tab=profile" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
+<p align="left"> 
+<a href="https://www.github.com/Ratul-Chatterjee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> 
+<a href="https://www.linkedin.com/in/ratulchatterjee99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> 
+<a href="https://www.stackoverflow.com/users/30645846/ratul-chatterjee?tab=profile" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a>
+</p>
+
 <div align="center">
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ratul-chatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="ratul-chatterjee" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ratul-chatterjee&label=Profile%20views&color=ff0000&style=flat" alt="Ratul-chatterjee" /> </p>
 
 </div>
 <p align="center">Enjoy!</p>
