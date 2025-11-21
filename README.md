@@ -58,7 +58,7 @@ Also currently learning to develop games as a **Game Developer** cause why not.
 <p align="center">
   <a href="https://github.com/Ratul-Chatterjee" title="Ratul-Chatterjee on GitHub">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Ratul-Chatterjee&show_icons=true&count_private=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=Ratul-Chatterjee&show_icons=true&count_private=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=37353E&hide_border=true"
       alt="Ratul-Chatterjee's GitHub stats" />
   </a>
 </p>
