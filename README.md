@@ -66,7 +66,7 @@ Also currently learning to develop games as a **Game Developer** cause why not.
 <p align="center">
   <a href="https://github.com/Ratul-Chatterjee" title="Streaks - Ratul-Chatterjee">
     <img
-      height="300"
+      height="220"
       align="middle"
       style="vertical-align: middle;"
       src="https://github-readme-streak-stats.herokuapp.com/?user=Ratul-Chatterjee&stroke=ff0000&background=000000&ring=ffffff&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ff0000&dates=ffffff&hide_border=true"
@@ -75,7 +75,7 @@ Also currently learning to develop games as a **Game Developer** cause why not.
   &nbsp;&nbsp;&nbsp;<!-- spacing between the stats -->
   <a href="https://github.com/Ratul-Chatterjee" title="Top languages - Ratul-Chatterjee">
     <img
-      height="300"
+      height="220"
       align="middle"
       style="vertical-align: middle;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratul-Chatterjee&langs_count=10&title_color=ff0000&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&custom_title=Top%20Languages"
