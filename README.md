@@ -58,7 +58,7 @@ Also currently learning to develop games as a **Game Developer** cause why not.
 <p align="center">
   <a href="https://github.com/Ratul-Chatterjee" title="Ratul-Chatterjee on GitHub">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Ratul-Chatterjee&show_icons=true&count_private=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=37353E&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=Ratul-Chatterjee&show_icons=true&count_private=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=1A1A1D&hide_border=true"
       alt="Ratul-Chatterjee's GitHub stats" />
   </a>
 </p>
@@ -69,7 +69,7 @@ Also currently learning to develop games as a **Game Developer** cause why not.
       height="220"
       align="middle"
       style="vertical-align: middle;"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Ratul-Chatterjee&stroke=ff0000&background=000000&ring=ffffff&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ff0000&dates=ffffff&hide_border=true"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Ratul-Chatterjee&stroke=ff0000&background=1A1A1D&ring=ffffff&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ff0000&dates=ffffff&hide_border=true"
       alt="Ratul-Chatterjee's streak stats" />
   </a>
   &nbsp;&nbsp;&nbsp;<!-- spacing between the stats -->
@@ -78,7 +78,7 @@ Also currently learning to develop games as a **Game Developer** cause why not.
       height="220"
       align="middle"
       style="vertical-align: middle;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratul-Chatterjee&langs_count=10&title_color=ff0000&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&custom_title=Top%20Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratul-Chatterjee&langs_count=10&title_color=ff0000&text_color=ffffff&icon_color=a855f7&bg_color=1A1A1D&hide_border=true&custom_title=Top%20Languages"
       alt="Top Languages" />
   </a>
 </p>
