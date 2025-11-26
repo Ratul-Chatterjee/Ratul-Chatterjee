@@ -76,6 +76,24 @@ Also currently learning to develop games as a **Game Developer** cause why not.
   </a>
 </p>
 
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ratul-Chatterjee&theme=2077" alt="Ratul's GitHub Summary Card" />
+</div>
+
+<div align="center">
+  <table cellpadding="6" style="border-collapse:collapse; display:inline-table;">
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ratul-Chatterjee&theme=2077" alt="repos-per-language" /></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ratul-Chatterjee&theme=2077" alt="most-commit-language" /></td>
+    </tr>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ratul-Chatterjee&theme=2077" alt="stats" /></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratul-Chatterjee&theme=2077&utcOffset=8" alt="productive-time" /></td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## Connect with Me
