@@ -14,9 +14,9 @@
 ## 😎 About Me
 
 Hi! I’m **Ratul Chatterjee**, 
-**Full Stack Web Developer** specializing in **AI/ML** technologies and web application development. Experienced in building **machine learning** solutions using Python, PyTorch, and other frameworks. Proficient in developing AI-powered automation systems and chatbots with practical implementation experience. Skilled in creating interactive web applications using Flask and JavaScript with modern development frameworks. Strong foundation in data analysis for deriving insights from complex datasets. Competent in **UI/UX** design and prototyping using Figma.
+Results driven Computer Science graduate with a strong foundation in programming, database management and AI/ML technologies. Competent in Web technologies, database systems, Python, Java, and C, and has practical experience creating projects and solutions that are ready for the industry. Proven capacity to work on AI-driven apps, Data Analysis, and Full-Stack Development, regularly producing scalable and effective results. Keen interest in Software Development, Data Analytics, and AI Engineering, aiming to contribute innovative solutions in dynamic IT environments.
 
-Also currently learning to develop games as a **Game Developer** cause why not.
+Also currently learning to develop **Games** and enhancing skills in **Computer Vision** cause why not.
 
 ---
 
