@@ -3,7 +3,7 @@
 <h3 align="center">AI/ML | Web Developer | Graphic Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20Developer;AI/ML%20Enthusiast;Passion%20for%20Game%20Development;Random%20man%20coding...;&center=true&width=500&height=45&color=FF0000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20Developer;AI/ML%20Enthusiast;Passion%20for%20Game%20Development;Random%20man%20coding...;&center=true&width=500&height=45&color=00CCFF">
 </p>
 
 ---
