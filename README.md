@@ -1,4 +1,4 @@
-<img src="Github Cover.png">
+<img src="Github Cover - Winter.png">
 <h1 align="center">Welcome to my reality...</h1>
 <h3 align="center">AI/ML | Web Developer | Graphic Designer</h3>
 
